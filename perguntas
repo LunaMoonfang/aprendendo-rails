@@ -19,6 +19,7 @@ William F. Paixão Madruga
 Ivan Rocha
 Rafael Izidoro
 Luiz Biagi
+Thiago Antonius
 
 De onde você é?
 Cairo Noleto: Teresina, Piauí
@@ -33,6 +34,7 @@ William F. Paixão Madruga: Rio de Janeiro - RJ
 Ivan Rocha: Salvador, Bahia
 Rafael Izidoro: São Vicente - SP
 Luiz Biagi: Londrina - PR
+Thiago Antonius: Salvador, Bahia
 
 A Quanto tempo você trabalha com desenvolvimento?
 Cairo Noleto: A mais ou menos 1 ano
@@ -47,6 +49,7 @@ William F. Paixão Madruga: 8 anos
 Ivan Rocha: 1 ano
 Rafael Izidoro: 2 anos
 Luiz Biagi: desenvolvimento WEB só por curiosidae, profissionalmente desenvolvo para Mainframe 2 anos e meio
+Thiago Antonius: 4 anos
 
 Quais linguagens você já desenvolveu?
 Cairo Noleto: Java, Ruby, PHP, Obj Pascal, Pascal, C, C++
@@ -61,6 +64,7 @@ William F. Paixão Madruga: Java, C, C++, ASP, PHP, @Formula, Lotus Script, Shel
 Ivan Rocha: C, Java, .NET, Ruby.
 Rafael Izidoro: PHP, C#
 Luiz Biagi: COBOL, Delphi, C(++), Ruby
+Thiago Antonius: C, PHP, ASP, JAVA, ActionScript 3, JavaScript e Ruby
 
 Você gosta do Bom dia & Cia?
 Cairo Noleto: Só gosto da Maísa!
@@ -75,6 +79,7 @@ William F. Paixão Madruga: não
 Ivan Rocha: O que é isso? [2]
 Rafael Izidoro: ¬¬
 Luiz Biagi: não vejo tv
+Thiago Antonius: Nunca vi
 
 Você já começou a usar o GIT?
 Cairo Noleto: Sim
@@ -89,6 +94,7 @@ William F. Paixão Madruga: sim, quebrei a cabeça ontem mas acho que hoje consi
 Ivan Rocha: Sim
 Rafael Izidoro: tentei...
 Luiz Biagi: de leve
+Thiago Antonius: estou começando
 
 Qual a sua primeira impressão?
 Cairo Noleto: A melhor :D
@@ -103,6 +109,7 @@ William F. Paixão Madruga: depois que se aprende, é prático e rápido.
 Ivan Rocha: Genial, humilha o SVN
 Rafael Izidoro: depois que se aprende, é prático e rápido. [+1]
 Luiz Biagi: tende a crescer
+Thiago Antonius: nota 10
 
 Você está gostando de usar o GIT?
 Cairo Noleto: Sim, acho melhor que svn, apesar de eu usar ainda com svn
@@ -117,6 +124,7 @@ William F. Paixão Madruga: muito cedo para responder
 Ivan Rocha: Claro!
 Rafael Izidoro: Por enquanto sim
 Luiz Biagi: sim
+Thiago Antonius: sim
 
 Você já sabe Ruby?
 Cairo Noleto: Não muito, mas venho me esforçando
@@ -131,6 +139,7 @@ William F. Paixão Madruga: sei o básico, falta me aprofundar na API
 Ivan Rocha: Sim (bom, nao me perguntaram o nivel). [2]
 Rafael Izidoro: Bem básico
 Luiz Biagi: sei o básico, tenho muito a aprender
+Thiago Antonius: já fiz vários projetinhos, porém me considero iniciante
 
 Há quanto tempo você conhece Ruby?
 Cairo Noleto: Há uns 2 anos
@@ -145,6 +154,7 @@ William F. Paixão Madruga: pouco tempo, 6 ou 7 meses, mas só comecei a me dedi
 Ivan Rocha: Há 2 anos
 Rafael Izidoro: mais ou menos uns 8 meses, porém, nunca me dediquei
 Luiz Biagi: 6 meses
+Thiago Antonius: 1 ano e meio
 
 Já viu o RubyOnRails?
 Cairo Noleto: Sim, muito bom
@@ -159,6 +169,7 @@ William F. Paixão Madruga: sim
 Ivan Rocha: Sim
 Rafael Izidoro: Sim
 Luiz Biagi: Sim
+Thiago Antonius: Sim
 
 Há quanto tempo você conhece RubyOnRails?
 Cairo Noleto: Tambem há uns 2 anos
@@ -173,6 +184,7 @@ William F. Paixão Madruga: o mesmo tempo que o Ruby pois na verdade conheci o r
 Ivan Rocha: Há 3 meses
 Rafael Izidoro: 6 ou 7 meses
 Luiz Biagi: 1 ano
+Thiago Antonius: 1 ano e meio
 
 Cairo Noleto: Já usou outros frameworks Ruby? Quais?
 Sim, Test:Units, RSPec e só :P
@@ -187,6 +199,7 @@ William F. Paixão Madruga: não mas já ouvi falar do merb.
 Ivan Rocha: Não
 Rafael Izidoro: não
 Luiz Biagi: nunca
+Thiago Antonius: WebOrb e Rghost
 
 Já usou outros frameworks em outras linguagens? Quais?
 Cairo Noleto: Sim, CodeIgniter, Lumine, jQuery, DocTrine, Xajax
@@ -201,6 +214,7 @@ William F. Paixão Madruga: sim. Struts, Hibernate, CakePHP, Prototype, leightbo
 Ivan Rocha: .NET
 Rafael Izidoro: Cakephp(pra fazer algo bem simples) e para javascript costumo usar jQuery
 Luiz Biagi: não
+Thiago Antonius: Struts 1 e 2, Hibernate, Mentawai, VRaptor, jQuery, Prototype, Prototype Window, CakePHP, e mais um catatau
 
 Qual a média de tempo em frente ao computador?
 Cairo Noleto: 16 horas horas por dia
@@ -215,6 +229,7 @@ William F. Paixão Madruga: 12 horas + ou -
 Ivan Rocha: 8 horas
 Rafael Izidoro: de 10 a 12 horas
 Luiz Biagi: 10-12horas
+Thiago Antonius: 8 horas do trabalho + umas 2
 
 Já participou de projetos OpenSource? Quais?
 Cairo Noleto: Participo do Lumine Framework, e do aprendendo rails ;)
@@ -229,6 +244,7 @@ William F. Paixão Madruga: não.
 Ivan Rocha: Sim, BrDesktop (antigo Debian-BR-CDD)
 Rafael Izidoro: Infelizmente não
 Luiz Biagi: não
+Thiago Antonius: Não
 
 Qual seu sistema operacional?
 Cairo Noleto: GNU/Linux, distro Ubuntu
@@ -243,6 +259,7 @@ William F. Paixão Madruga: Ubuntu 8.0.4 em casa e Windows XP no trabalho
 Ivan Rocha: GNU/Linux (Debian e Ubuntu)
 Rafael Izidoro: Windows Vista
 Luiz Biagi: Windows Vista (quero voltar para o XP)
+Thiago Antonius: Mac OS X Leopard, porém no trabalho windows XP
 
 Você usa alguma IDE? Qual?
 Cairo Noleto: Sim, Gedit
@@ -257,6 +274,7 @@ William F. Paixão Madruga: gEdit e eclipse
 Ivan Rocha: Emacs
 Rafael Izidoro: E 
 Luiz Biagi: NetBeans
+Thiago Antonius: Eclipse, Netbeans, e textmate porém esse é editor
 
 Você sabe usar a linha de comando?
 Cairo Noleto: Sim
@@ -271,6 +289,7 @@ William F. Paixão Madruga: sim
 Ivan Rocha: Bash do GNU/Linux
 Rafael Izidoro: Sim (nada muito avançado)
 Luiz Biagi: sim
+Thiago Antonius: sim
 
 Você sabe criar layouts?
 Cairo Noleto: Não
@@ -285,6 +304,7 @@ William F. Paixão Madruga: não hehe
 Ivan Rocha: NÃO
 Rafael Izidoro: já criei alguns, mas nenhuma obra de arte
 Luiz Biagi: beeeeeem básico, e fica feio
+Thiago Antonius: criar não, sei fazer a montagem usando xhtml/css porém estou enferrujado
 
 Você pratica esportes? Quais?
 Cairo Noleto: Sim, levantamento de copo, e revezamento 4 por 1kg de comidas típicas
@@ -299,6 +319,7 @@ William F. Paixão Madruga: Kung fu Louva-a-Deus do Norte (Pak Ton Long Phai) e 
 Ivan Rocha: Futebol, mas tô devendo atualmente
 Rafael Izidoro: Natação 
 Luiz Biagi: no momento nada, mas to pensando em boxe
+Thiago Antonius: Futebol, academia e dança de salão (Forró, samba de gafieira e bolero)
 
 Qual seu time favorito? Pode ser de qualquer esporte
 Cairo Noleto: Palmeiras
@@ -313,3 +334,4 @@ William F. Paixão Madruga: nenhum
 Ivan Rocha: BAHÊÊÊÊAAA
 Rafael Izidoro: Peixãããããõoooo
 Luiz Biagi: não vejo tv, nem gosto de futebol 
+São Paulo
